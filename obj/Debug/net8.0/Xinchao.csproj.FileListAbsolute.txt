@@ -1,0 +1,14 @@
+E:\Codegym\c# start\Xinchao\bin\Debug\net8.0\Xinchao.exe
+E:\Codegym\c# start\Xinchao\bin\Debug\net8.0\Xinchao.deps.json
+E:\Codegym\c# start\Xinchao\bin\Debug\net8.0\Xinchao.runtimeconfig.json
+E:\Codegym\c# start\Xinchao\bin\Debug\net8.0\Xinchao.dll
+E:\Codegym\c# start\Xinchao\bin\Debug\net8.0\Xinchao.pdb
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\Xinchao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\Xinchao.AssemblyInfoInputs.cache
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\Xinchao.AssemblyInfo.cs
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\Xinchao.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\Xinchao.dll
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\refint\Xinchao.dll
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\Xinchao.pdb
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\Xinchao.genruntimeconfig.cache
+E:\Codegym\c# start\Xinchao\obj\Debug\net8.0\ref\Xinchao.dll
